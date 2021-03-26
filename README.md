@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Linux (need this for training and testing the neural network - torchaudio)  
+Linux (need this for training and testing the neural network - torchaudio - utf-8)
 Python 3 (using 3.9.1)  
 Pip  
 
